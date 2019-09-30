@@ -1,2 +1,7 @@
 # Semana_OmniStack_9
-Backend e Frontend da aplicação e versão móvel, desenvolvida na 8a semana OmniStack
+
+Aplicação desenvolvida na 8ª semana OmniStack. Foram desenvolvidos:
+
+* Backend (NodeJS)
+* Frontend (React)
+* Mobile = Tindev (React Native)
